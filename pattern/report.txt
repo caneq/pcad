@@ -1,0 +1,132 @@
+Verify Design E:\lab\pcad\ÒıÂÏ‡.SCH Against Library: E:\LAB\PCAD\PATTERN\KOROBKIN.LIB
+
+ Refdes            Component         Property/Attribute      Library Value                              Design Value                              Update
+
+
+======================================================================
+
+ XS5               –¿«⁄≈Ã_œ»“¿Õ»ﬂ 
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ VD1               ƒ»Œƒ           
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ C5                 ŒÕƒ≈Õ—¿“Œ–_ ≈–¿Ã»◊≈— »…
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ C1                 ŒÕƒ≈Õ—¿“Œ–_ ≈–¿Ã»◊≈— »…
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ D1                —“¿¡»À»«¿“Œ–   
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ D2                ¿“Ã≈√¿         
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ C7                 ŒÕƒ≈Õ—¿“Œ–_ ≈–¿Ã»◊≈— »…
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ U1                5¬             
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ U2                Œ¡Ÿ»…_œ–Œ¬Œƒ   
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ U5                Œ¡Ÿ»…_œ–Œ¬Œƒ   
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ C4                 ŒÕƒ≈Õ—¿“Œ–_›À 
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ U3                5¬             
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ R4                –≈«»—“Œ–       
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ VD3               —¬≈“Œƒ»Œƒ      
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ U4                Œ¡Ÿ»…_œ–Œ¬Œƒ   
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ 1                 √–≈¡≈Õ ¿8      
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ 2                 √–≈¡≈Õ ¿6      
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ U6                5¬             
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ U7                Œ¡Ÿ»…_œ–Œ¬Œƒ   
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ 3                 √–≈¡≈Õ ¿6      
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ 4                 √–≈¡≈Õ ¿8      
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ 5                 √–≈¡≈Õ ¿2      
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ 6                 √–≈¡≈Õ ¿6      
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ R1                –≈«»—“Œ–       
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ U8                5¬             
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ SA1                ÕŒœ ¿         
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ U9                Œ¡Ÿ»…_œ–Œ¬Œƒ   
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ C2                 ŒÕƒ≈Õ—¿“Œ–_ ≈–¿Ã»◊≈— »…
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ C6                 ŒÕƒ≈Õ—¿“Œ–_›À 
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ U10               Œ¡Ÿ»…_œ–Œ¬Œƒ   
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ U11               5¬             
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ U12               Œ¡Ÿ»…_œ–Œ¬Œƒ   
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ C3                 ŒÕƒ≈Õ—¿“Œ–_ ≈–¿Ã»◊≈— »…
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ VD2               —¬≈“Œƒ»Œƒ      
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ R2                –≈«»—“Œ–       
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ U13               Œ¡Ÿ»…_œ–Œ¬Œƒ   
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ R6                –≈«»—“Œ–       
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ R5                –≈«»—“Œ–       
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ R7                –≈«»—“Œ–       
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ U14               5¬             
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ U15               Œ¡Ÿ»…_œ–Œ¬Œƒ   
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ U16               Œ¡Ÿ»…_œ–Œ¬Œƒ   
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+                                     ComponentType           Power                                      Normal                                     No    
+                                     RefDesPrefix            PWR                                        U                                          No    
+ 8                  ŒÕƒ≈Õ—¿“Œ–_ ≈–¿Ã»◊≈— »…
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+ BQ1                ¬¿–÷          
+                                     ComponentLibrary                                                   KOROBKIN.LIB                               No    
+
+----------------------------------------------------------------------
+
+29-May-20  15:01                                            Page    1
+

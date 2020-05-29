@@ -1,0 +1,66 @@
+P-CAD Net List Load Errors
+
+======================================================================
+
+Netlist filename: E:\lab\pcad\схема.net
+Warning: Net NET00003 has less than two nodes.
+Warning: Net NET00008 has less than two nodes.
+Warning: Net NET00009 has less than two nodes.
+Warning: Net NET00015 has less than two nodes.
+Warning: Net NET00016 has less than two nodes.
+Warning: Net NET00027 has less than two nodes.
+Warning: Net NET00054 has less than two nodes.
+SHORTED NETS:
+
+
+Net List Errors:   0
+Net List Warnings: 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+29-May-20  15:37                                            Page    1
+
