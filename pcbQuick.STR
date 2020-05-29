@@ -1,0 +1,44 @@
+[AUTOROUTER]
+Autorouter=QuickRoute
+[STRATEGY]
+RouteOptions=1 1 1 0
+RouteCptInterval=120
+RouteCopperShare=0
+RouteErrorOutput=2
+RouteOutputFile=E:\lab\pcad\RpcbQuick.PCB
+RouteReportFile=E:\lab\pcad\RpcbQuick.LOG
+RouteAutoPass=1
+RoutePassFlags=1 0 0 0 1 1 1 1 1 1 1
+RoutePassCounts=5 2
+RouteForceMfgFlag=0
+RouteAuxiliary=1
+RouteViaGridX=1
+RouteDefaultViaStyle=(Default)
+RouteDefaultLineWidth=25400
+GridOriginRel=0app,0app
+GridModeIsAbsolute=True
+GridVisibleStyleIsDot=True
+GridIsVisible=True
+GridPromptForRel=False
+GridAbsolute=10000app
+GridRelative=254000app
+GridSequence0=10000app
+GridSequence1=50000app
+GridSequence2=1000000app
+GridSequence3=100000app
+GridSequence4=254000app
+[STRATEGY2]
+RoutePassFlags=1 1 1 1 1 1 1 1 1 0 0 0
+RouteDefaultLineWidth=25400app
+GridOriginRel=0app,0app
+GridModeIsAbsolute=True
+GridVisibleStyleIsDot=True
+GridIsVisible=True
+GridPromptForRel=False
+GridAbsolute=10000app
+GridRelative=254000app
+GridSequence0=10000app
+GridSequence1=50000app
+GridSequence2=1000000app
+GridSequence3=100000app
+GridSequence4=254000app

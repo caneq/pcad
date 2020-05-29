@@ -1,0 +1,75 @@
+
+Fri 16:36:47  P-CAD 2001 Shape-Based Router Started on Friday, May 29, 2020
+Fri 16:36:47  Loaded file E:\lab\pcad\pcbQuick.PRF
+Fri 16:38:36  NeuralNet class C2
+Fri 16:38:36  Fan-Out Pass 1: Completed: 0 connections in 0.0 seconds
+Fri 16:38:36  Memory  Pass 1: Completed 0 connections in 0.0 seconds
+Fri 16:38:36  Memory  Pass 2: Completed 24 connections in 0.0 seconds
+Fri 16:38:36  Pass  1:   0.0min.  61%   35R   22U   0C   1V
+Fri 16:38:36  Pass  2:   0.0min.  61%   35R   22U   0C   1V
+Fri 16:38:36  Pass  3:   0.0min.  61%   35R   22U   0C   1V
+Fri 16:38:36  Pass  4:   0.0min. 100%   57R    0U   0C   2V
+Fri 16:38:36  Mitre   Pass 1: Modified 20 out of 57 in 0.0 minutes
+Fri 16:38:38  Length on Top = 18.4"
+Fri 16:38:38  Length on Bottom = 31.0"
+Fri 16:38:38  Total vias = 2
+Fri 16:38:38  100% routed with no conflicts
+Fri 16:38:38  Total Time 00:00:01
+Fri 16:38:38  NeuralNet class C2
+Fri 16:38:38  Fan-Out Pass 1: Completed: 0 connections in 0.0 seconds
+Fri 16:38:38  Mitre   Pass 1: Modified 25 out of 57 in 0.0 minutes
+Fri 16:38:38  Length on Top = 13.7"
+Fri 16:38:38  Length on Bottom = 33.8"
+Fri 16:38:38  Total vias = 9
+Fri 16:38:38  100% routed with no conflicts
+Fri 16:38:38  Total Time 00:00:02
+Fri 16:38:46  NeuralNet class C2
+Fri 16:38:46  Fan-Out Pass 1: Completed: 0 connections in 0.0 seconds
+Fri 16:38:46  Mitre   Pass 1: Modified 22 out of 57 in 0.0 minutes
+Fri 16:38:46  Length on Top = 11.9"
+Fri 16:38:46  Length on Bottom = 34.8"
+Fri 16:38:46  Total vias = 12
+Fri 16:38:46  100% routed with no conflicts
+Fri 16:38:46  Total Time 00:00:02
+Fri 16:38:47  NeuralNet class C2
+Fri 16:38:47  Fan-Out Pass 1: Completed: 0 connections in 0.0 seconds
+Fri 16:38:47  Mitre   Pass 1: Modified 18 out of 57 in 0.0 minutes
+Fri 16:38:47  Length on Top = 10.9"
+Fri 16:38:47  Length on Bottom = 36.5"
+Fri 16:38:47  Total vias = 12
+Fri 16:38:47  100% routed with no conflicts
+Fri 16:38:47  Total Time 00:00:03
+Fri 16:38:49  NeuralNet class C2
+Fri 16:38:49  Fan-Out Pass 1: Completed: 0 connections in 0.0 seconds
+Fri 16:38:49  Mitre   Pass 1: Modified 27 out of 57 in 0.0 minutes
+Fri 16:38:49  Length on Top = 12.5"
+Fri 16:38:49  Length on Bottom = 34.5"
+Fri 16:38:49  Total vias = 11
+Fri 16:38:49  100% routed with no conflicts
+Fri 16:38:49  Total Time 00:00:03
+Fri 16:38:51  NeuralNet class C2
+Fri 16:38:51  Fan-Out Pass 1: Completed: 0 connections in 0.0 seconds
+Fri 16:38:51  Mitre   Pass 1: Modified 25 out of 57 in 0.0 minutes
+Fri 16:38:51  Length on Top = 12.5"
+Fri 16:38:51  Length on Bottom = 33.7"
+Fri 16:38:51  Total vias = 11
+Fri 16:38:51  100% routed with no conflicts
+Fri 16:38:51  Total Time 00:00:03
+Fri 16:38:53  NeuralNet class C2
+Fri 16:38:53  Fan-Out Pass 1: Completed: 0 connections in 0.0 seconds
+Fri 16:38:53  Mitre   Pass 1: Modified 21 out of 57 in 0.0 minutes
+Fri 16:38:53  Length on Top = 12.3"
+Fri 16:38:53  Length on Bottom = 33.9"
+Fri 16:38:53  Total vias = 11
+Fri 16:38:53  100% routed with no conflicts
+Fri 16:38:53  Total Time 00:00:04
+Fri 16:38:55  NeuralNet class C2
+Fri 16:38:55  Fan-Out Pass 1: Completed: 0 connections in 0.0 seconds
+Fri 16:38:55  Mitre   Pass 1: Modified 22 out of 57 in 0.0 minutes
+Fri 16:38:55  Length on Top = 12.6"
+Fri 16:38:55  Length on Bottom = 33.7"
+Fri 16:38:55  Total vias = 11
+Fri 16:38:55  100% routed with no conflicts
+Fri 16:38:55  Total Time 00:00:04
+Fri 16:39:02  Saved as: E:\lab\pcad\pcbQuick.PRF
+Fri 16:39:02  Memory used:  0% (2.624MB out of 2048.000MB)
